@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">The News App</string>
+    <string name="interneterrormessages">No internet connection!\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
+    <string name="contneterrormessages">No news found!\nbecause you lose Internet connection\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
+    <string name="written_by">written_by</string>
+</resources>
