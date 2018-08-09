@@ -22,6 +22,15 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
+        <TextView
+            style="@style/newsdetailstextstyle"
+            android:text="@string/written_by" />
+
+        <TextView
+            android:id="@+id/author_text_view"
+            style="@style/newsdetailstextstyle"
+            android:textColor="@color/colorPrimary"
+            tools:text="Author" />
 
     </LinearLayout>
 
