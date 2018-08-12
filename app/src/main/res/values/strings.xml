@@ -15,7 +15,7 @@
 
     <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
     <string name="settings_order_by_sports_label">Sports</string>
-    <string name="settings_order_by_sports_value" translatable="false">sports</string>
+    <string name="settings_order_by_sports_value" translatable="false">sport</string>
 
     <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
     <string name="settings_order_by_music_label">Music</string>
