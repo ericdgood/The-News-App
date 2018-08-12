@@ -11,13 +11,17 @@
     <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
     <string name="settings_sort_by_label">Sort By</string>
     <string name="settings_order_by_key" translatable="false">sort by</string>
-    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_sports_value</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_news_value</string>
 
-    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_news_label">News</string>
+    <string name="settings_order_by_news_value" translatable="false">news</string>
+
     <string name="settings_order_by_sports_label">Sports</string>
     <string name="settings_order_by_sports_value" translatable="false">sport</string>
 
-    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
     <string name="settings_order_by_music_label">Music</string>
     <string name="settings_order_by_music_value" translatable="false">music</string>
+
+    <string name="settings_order_by_science_label">Science</string>
+    <string name="settings_order_by_science_value" translatable="false">science</string>
 </resources>
