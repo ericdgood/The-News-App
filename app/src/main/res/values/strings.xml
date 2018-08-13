@@ -3,6 +3,7 @@
     <string name="interneterrormessages">No internet connection!\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
     <string name="contneterrormessages">No news found!</string>
     <string name="written_by">written_by</string>
+    <string name="no_author">No Author ..</string>
 
     <string name="settings_menu_item">Settings</string>
     <string name="settings_title">News Settings</string>
