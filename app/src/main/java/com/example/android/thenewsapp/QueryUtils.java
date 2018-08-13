@@ -127,7 +127,7 @@ public class QueryUtils {
                     JSONObject currenttagsauthor = tagsauthor.getJSONObject(0);
                     author = currenttagsauthor.getString("webTitle");
                 }else{
-                    author = "No Author ..";
+                    author = R.string.no_author;
                 }
 
                 News news = new News(Title, category, date, url, author);
